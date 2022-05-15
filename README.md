@@ -1,6 +1,8 @@
 ## **Dashboard**
 
-![Screenshot1](https://github.com/Dmitruzd21/telegraf/blob/master/screenshots/Telegraf_%20system%20dashboard2%20-%20Grafana%20–%20Яндекс.Бра.png)
+![Screenshot1](https://github.com/Dmitruzd21/telegraf/blob/master/screenshots/Telegraf_%20system%20dashboard2%20-%20GrafanaRAM%20–%20Яндекс.Бра.png)
+
+![ScreenshotMemory](https://github.com/Dmitruzd21/telegraf/blob/master/screenshots/Telegraf_%20system%20dashboard2%20-%20GrafanaMemory%20–%20Яндекс.Бра.png)
 
 ![Screenshot2](https://github.com/Dmitruzd21/telegraf/blob/master/screenshots/Telegraf_%20system%20dashboard2%20-%20Grafana%20–%20Яндекс.Бра2.png)
 
